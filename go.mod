@@ -1,4 +1,4 @@
-module mymodule
+module osiris
 
 go 1.20
 
